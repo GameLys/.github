@@ -37,16 +37,6 @@ bâtir une équipe solide, avec des projets variés, tout en préservant la tran
 
 ---
 
-## 📊 Statistiques globales
-
-<p align="center">
-  <a href="https://github.com/GameLys">
-    <img src="https://github-readme-stats.vercel.app/api?username=GameLys&show_icons=true&theme=dracula&hide_border=true&title_color=ff00ff&icon_color=ff00ff&text_color=ffffff&bg_color=00000000" alt="Stats GameLys" />
-  </a>
-</p>
-
----
-
 ## 🚀 Ce que nous recherchons
 
 > 🎯 Des **développeurs passionnés** par la création et l’innovation,  
