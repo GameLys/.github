@@ -1,28 +1,26 @@
-<!-- README pour GameLys - placé dans .github/profile/README.md -->
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&width=600&lines=Bienvenue+chez+GameLys+🎮;Créons+ensemble,;le+studio+de+jeux+de+demain;" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&width=600&lines=Bienvenue+chez+GameLys+💻;Créons+ensemble,;le+studio+de+demain;" alt="Typing SVG">
 </p>
 
 ---
 
-## 🎮 À propos de GameLys
+## 💻 À propos de GameLys
 
 > **GameLys** est une organisation née d’une idée simple :  
-> **créer un studio de jeux vidéo indépendant**,  
+> **créer un studio de développement indépendant**,  
 > en réunissant des **développeurs passionnés, investis et curieux**.
 
 Nous avançons étape par étape — le but est clair :  
-bâtir une équipe solide, avec des projets durables, tout en préservant la transparence et la qualité.
+bâtir une équipe solide, avec des projets variés, tout en préservant la transparence et la qualité.
 
 ---
 
 ## 💼 Nos objectifs
 
-- 🏗️ **Construire un studio de jeux** indépendant et moderne.  
-- 👨‍💻 **Recruter des développeurs investis** et motivés par le challenge.  
+- 🏗️ **Construire un studio de développement** moderne et indépendant.  
+- 👨‍💻 **Recruter des développeurs motivés** et curieux de relever des challenges.  
 - 🤝 **Créer une base d’équipe fiable**, avant toute mise en production publique.  
-- 🔒 **Garder le reste privé** : certaines parties de nos travaux sont confidentielles jusqu’à leur maturité.
+- 🔒 **Garder certaines parties privées** : certaines idées ou projets restent confidentiels jusqu’à leur maturité.
 
 ---
 
@@ -51,12 +49,12 @@ bâtir une équipe solide, avec des projets durables, tout en préservant la tra
 
 ## 🚀 Ce que nous recherchons
 
-> 🎯 Des **développeurs passionnés** par la création de jeux,  
+> 🎯 Des **développeurs passionnés** par la création et l’innovation,  
 > capables de collaborer à distance, d’apprendre vite et de proposer des idées.  
 
 ### Profils que nous apprécions :
-- 🔹 Connaissance de Unity, Unreal Engine ou Godot  
-- 🔹 Bon niveau en C#, C++ ou Python  
+- 🔹 Connaissance de **développement logiciel** (web, applications, outils, etc.)  
+- 🔹 Bon niveau en **C#, C++, Python, JavaScript ou autre langage**  
 - 🔹 Esprit d’équipe et autonomie  
 - 🔹 Motivation à long terme
 
